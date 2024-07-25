@@ -7,12 +7,13 @@ Build a complex home network with strict security measures, subnets and totally 
 ## Procedures
 Firstly I built 2 small networks linked by a router, with small security measures like password protection and encryption for the router and switch. I also allocated a DHCP server with a single pool os ips for one of the networks.
 
-## To be Done
+## To Do
 * DNS server
 * HTTP server
 * VLAN for specific accesses
 * Internet (ISP, Cloud, etc.)
 * Acesss Point
+* SSH access for all routers and switches
   
 And finally something else that I think would be a nice addition.
 
